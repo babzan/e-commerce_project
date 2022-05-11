@@ -5,7 +5,7 @@
 
 ## Few words about our data
 
-<h3> olist_customers_datase.csv </h3> - table with unique customers and their data
+<h3> olist_customers_datase.csv - table with unique customers and their data </h3>
 
 customer_id — our customers idendification (id number)
 
@@ -18,7 +18,7 @@ customer_city —  city to deliver
 customer_state —  state to deliver
 
 
-<h3> olist_orders_dataset.csv </h3> —  order table
+<h3> olist_orders_dataset.csv —  order table </h3>
 
 order_id —  unique order number (check number)
 
@@ -37,7 +37,7 @@ order_delivered_customer_date —  when delievred
 order_estimated_delivery_date —  estimated time of our delivery
 
 
-<h3> olist_order_items_dataset.csv </h3> —  items in orders
+<h3> olist_order_items_dataset.csv —  items in orders </h3>
 
 order_id —  unique order number (check number)
 
